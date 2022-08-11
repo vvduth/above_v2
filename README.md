@@ -6,4 +6,4 @@ Original Project can be found here: [Next.js Ecommerce](https://github.com/vvdut
 * Go check it out real quick [Above v2 - I show Slow](https://above-v2-vvduth.vercel.app/)
 
 ## Decs
-* An e-commerce web app with shopify inergrated
+* An e-commerce web app with shopify itegrated
